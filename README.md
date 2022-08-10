@@ -1,4 +1,4 @@
-# FaceMaskDetection
+# Face Mask Detection
 End-to-End Machine Learning Project for Face Mask Detection. Works on and compares over 3 different standard models of Machine Learning.
 
 ● Access the modified dataset. Link - https://drive.google.com/file/d/1PXvUqWKJzNlBUaiQ3o3NX-9FUI03eO94/view
